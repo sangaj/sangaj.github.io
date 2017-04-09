@@ -1,6 +1,6 @@
-## Karl Broman&rsquo;s website
+## Bingjing's website
 
-See [kbroman.org](http://kbroman.org).
+Thanks to  [kbroman.org](http://kbroman.org).
 
 ---
 
