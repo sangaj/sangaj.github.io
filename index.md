@@ -4,6 +4,16 @@ title: Bingjing Gu
 description: Data lover and value investor
 keywords: Bingjing, Leiden, R, python, statistic, Big data
 ---
+<head>
+<style>
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+</style>
+</head>
 
 <div class="navbar">
   <div class="navbar-inner">
@@ -16,7 +26,7 @@ keywords: Bingjing, Leiden, R, python, statistic, Big data
 </div>
 
 <table class="wide">
-<div class="row banner">
+<div class="center">
             <div class="banner-text" text-align="center">
                 <h1 class="responsive-headline">I'm Bingjing Gu.</h1>
                 <h3>I'm a <span>data lover</span> and <span>value investor</span>.<br>
