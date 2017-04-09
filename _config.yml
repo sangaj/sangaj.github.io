@@ -8,12 +8,10 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Karl Broman
+title : Bingjing Gu
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Bingjing Gu
+  email : gubingjing@hotmail.com
   feedburner : nil
 
 production_url : https://sangaj.github.io
