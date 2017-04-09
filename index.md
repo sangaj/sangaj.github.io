@@ -9,7 +9,6 @@ keywords: Bingjing, Leiden, R, python, statistic, Big data
 .center {
     margin: auto;
     width: 60%;
-    border: 3px solid #73AD21;
     padding: 10px;
 }
 </style>
@@ -28,8 +27,8 @@ keywords: Bingjing, Leiden, R, python, statistic, Big data
 <table class="wide">
 <div class="center">
             <div class="banner-text" text-align="center">
-                <h1 class="responsive-headline">I'm Bingjing Gu.</h1>
-                <h3>I'm a <span>data lover</span> and <span>value investor</span>.<br>
+                <h1 class="center">I'm Bingjing Gu.</h1>
+                <h4>I'm a <span>data lover</span> and <span>value investor</span>.<br>
                 Welcome and learn more <a class="smoothscroll" href="https://sangaj.github.io/pages/about.html">about me</a>.</h3>
                 <hr />
             </div>
