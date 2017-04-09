@@ -9,7 +9,8 @@ I am still a Master student in [Leiden University](https://www.universiteitleide
 My thesis topic is [A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction]
 I expect to get my master degee with Statistics from [Mathematical Institute Leiden](http://www.math.leidenuniv.nl/statisticalscience/) in May.
 I prefer to look a Data Scientist position in Europe or P.R.China after my graduation
-
+I currently running two business during my spare time. One is consulting service in Shanghai(上海互启信息技术有限公司). The other is customized tours service in The Netherlands(Lekkertrip).
+In addition, I really enjoy making investment in stock market. I have my own personal investment philosophy and portfolio.  
 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bingjing_cv.pdf)
@@ -23,26 +24,27 @@ I prefer to look a Data Scientist position in Europe or P.R.China after my gradu
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            Bingjing Gu<br/>
+            <a>Mathematical Institute Leiden</a><br/>
+            <a>Leiden University</a><br/>
+            <a></a><br/>
+            <br/>
+            <br/>
+            <br/><br/>
 
             <div id="hide_email">
-            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: <code>gubing</code><b>I</b><code>jing</code><b>don't</b><code>@</code><b>want</b><code>hot</code><b>spam!
+            </b><code>mail</code><b>So</b><code>.</code><b>please</b><code></code><b>leave
+            </b><code></code><b>me</b><code>.</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
+            Phone: +31(0)617893314
+           
             </div>
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a >
+            <img src="../assets/pics/bingjing.jpg"
+                  title="Bingjing Gu" alt="Bingjing Gu"/></a>
         </div>
     </div>
 </div>
