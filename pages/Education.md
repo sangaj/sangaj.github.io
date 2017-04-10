@@ -16,8 +16,7 @@ description: Karl Broman's publications
 </div>
 
 
-### <a name="Leiden University"></a>Leiden University   
-[![Leiden University](icons16/leiden.png)](https://www.universiteitleiden.nl/en)
+### <a name="Leiden University"></a>Leiden University   [![Leiden University](icons16/leiden.png)](https://www.universiteitleiden.nl/en)
 
 
 **Statistical Science**
@@ -27,8 +26,7 @@ description: Karl Broman's publications
 
 
 
-### <a name="Leiden University"></a>Wuhan University   
-[![Wuhan University](icons16/wuhan.png)](http://en.whu.edu.cn/)
+### <a name="Leiden University"></a>Wuhan University   [![Wuhan University](icons16/wuhan.png)](http://en.whu.edu.cn/)
 
 
 **Bachelor of Science in Mathematics**
