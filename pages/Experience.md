@@ -17,7 +17,7 @@ description: Bingjing's Experience
 ####  May 2014 - Present
 
 - Utilize R to collect public data and further analyze the key factors of successful projects; <br />
-- Provide relevant consultant services regarding government subsidiaries and business qualification authentication to clients and draft project application report; <br />
+- Provide relevant consultant services regarding government subsidiaries and business qualification authentication for clients and draft project application report; <br />
 - Detect potential clients on recruiting websites by web crawler techniques; <br />
 
 
