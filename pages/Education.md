@@ -7,7 +7,6 @@ description: Bingjing's Education
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-        
             <li><a href="#Leiden Univeristy">Leiden University</a></li>
             <li><a href="#Wuhan University">Wuhan University</a></li>
             <li><a href="#Cousera">Cousera</a></li>
@@ -20,7 +19,8 @@ description: Bingjing's Education
 
 
 **Statistical Science**
-- Sep 2014 - Present  
+- Sep 2014 - Present  
+ - Thesis project: A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction
 > > Leiden Science China (LSC) Scholarship 2015/2016
 
 
