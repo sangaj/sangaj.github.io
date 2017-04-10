@@ -34,7 +34,7 @@ keywords: Bingjing, Leiden, R, python, statistic, Big data
             <br>
                 <h1 class="textcenter">I'm Bingjing Gu </h1>
             <br>   
-                <h3 class ="textcenter">I'm a <span>data lover</span> and <span>value investor</span>.<br>
+                <h3 class ="textcenter">I'm a <span>data lover</span> and <span>value investor</span>.
                 Welcome and learn more <a class="smoothscroll" href="https://sangaj.github.io/pages/About.html">about me</a>.</h3>
                 <hr />
             </div>
