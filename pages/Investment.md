@@ -6,7 +6,7 @@ title: Investment
 ### Business 
 
 - **上海互启信息科技有限公司**
-- ** Lekkertrip**
+- **Lekkertrip**
 
 ### Stock Market
 
