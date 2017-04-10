@@ -21,7 +21,7 @@ description: Bingjing's Education
 **Statistical Science**
 - Sep 2014 - Present  
    - Thesis project: A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction
-> > Leiden Science China (LSC) Scholarship 2015/2016
+> Leiden Science China (LSC) Scholarship 2015/2016
 
 
 
@@ -31,7 +31,7 @@ description: Bingjing's Education
 
 **Bachelor of Science in Mathematics**
 - Sep 2006 - June 2010 
-> > Wuhan University Freshman Scholarship 2006
+> Wuhan University Freshman Scholarship 2006
 
 
 ### <a name="Coursera"></a>Coursera   [![Coursera](icons16/coursera.png)](https://www.coursera.org/)
