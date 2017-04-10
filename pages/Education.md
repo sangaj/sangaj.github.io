@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-description: Karl Broman's publications
+description: Bingjing's Education
 ---
 
 <div class="navbar">
@@ -34,6 +34,17 @@ description: Karl Broman's publications
 > > Wuhan University Freshman Scholarship 2006
 
 
+### <a name="Coursera"></a>Coursera   [![Coursera](icons16/coursera.png)](https://www.coursera.org/)
+
+- R Programming    [Coursera Verified Certificates, License GLEY95T6W8](icons16/Coursera rprog 2017.pdf)
+- Regression Models [Coursera Verified Certificates, License KVM28QMYX2](icons16/Coursera regmods 2017.pdf)
+- Getting and Cleaning Data [Coursera Verified Certificates, License NRBWGSNSAF](icons16/Coursera getdata 2017.pdf)
+- Practical Machine Learning [Coursera Verified Certificates,License WUTC6Y8LMZN6](icons16/Coursera WUTC6Y8LMZN6.pdf)
+- The Data Scientist’s Toolbox [Coursera Verified Certificates License ZSBK99D8Y6DP](icons16/Coursera ZSBK99D8Y6DP.pdf)
+- Exploratory Data Analysis [Coursera Verified Certificates License JJKUNPWFW9K3](icons16/Coursera JJKUNPWFW9K3.pdf)
+- Statistical Inference [Coursera Verified Certificates License GHUK65YU9TXW](icons16/Coursera GHUK65YU9TXW.pdf)
+- Reproducible Research [Coursera Verified Certificates License 8XETPCZGWGFE](icons16/Coursera 8XETPCZGWGFE.pdf)
+- Developing Data Products [Coursera Verified Certificates License NL6A9HCMEXTA](icons16/Coursera NL6A9HCMEXTA.pdf)
 
 
 
