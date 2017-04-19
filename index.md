@@ -1,6 +1,5 @@
 ---
 layout: frontpage
-title: Bingjing Gu
 description: Data lover and value investor
 keywords: Bingjing, Leiden, R, python, statistic, Big data
 ---
