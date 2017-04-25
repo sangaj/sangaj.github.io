@@ -10,4 +10,4 @@ title: Project
 
 - **Shiny Project** 
   -  Top attractions in Netherlands for Chinese Visitors
-      -  [Link](https://sangaj.shinyapps.io/attractions/)
+      -  [Link](https://sangaj.shinyapps.io/attraction/)
