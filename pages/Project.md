@@ -8,3 +8,6 @@ title: Project
   -  Application to give a simple example of the central limit theorem
       -  [Link](https://sangaj.shinyapps.io/clt_proof_in_histogram/)
 
+- **Shiny Project** 
+  -  Top attractions in Netherlands for Chinese Visitors
+      -  [Link]
