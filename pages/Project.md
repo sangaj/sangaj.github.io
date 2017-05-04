@@ -11,3 +11,7 @@ title: Project
 - **Shiny Project** 
   -  Top attractions in Netherlands for Chinese Visitors
       -  [Link](https://sangaj.shinyapps.io/attraction/)
+
+- **Shiny Project** 
+  -  Flights comparison among Top3 European Airport from Chinese Cities
+      -  [Link](https://sangaj.shinyapps.io/airlines/)
