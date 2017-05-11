@@ -6,7 +6,7 @@ description: Bingjing Gu was born in Shanghai China and is currently living in L
 
 My name is Bingjing Gu. I am originally from Shanghai China and currently living in Leiden The Netherlands.
 I am still a Master student in [Leiden University](https://www.universiteitleiden.nl/en). 
-My thesis topic is [A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction]
+My thesis topic is [A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction](https://github.com/sangaj/Thesis/blob/master/Thesis.pdf)
 I expect to get my master degee with Statistics from [Mathematical Institute Leiden](http://www.math.leidenuniv.nl/statisticalscience/) in May.
 I prefer to look a Data Scientist position in Europe or P.R.China after my graduation
 I currently running two business during my spare time. One is consulting service in Shanghai(上海互启信息技术有限公司). The other is customized tours service in The Netherlands(Lekkertrip).
