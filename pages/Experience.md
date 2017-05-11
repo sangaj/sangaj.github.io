@@ -8,7 +8,7 @@ description: Bingjing's Experience
 ####  Lekkertrip  
 ####  Jan 2017 - Present
 
-- Provide customized tour packages for Chinese tourist in The Netherlands; <br />
+- Provide customized tour packages for Chinese tourists in The Netherlands; <br />
 
 
 
