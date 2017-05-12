@@ -14,7 +14,7 @@ In addition, I really enjoy making investment in stock market. I have my own per
 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bingjing_cv.pdf)
-
+[reference ![reference as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/reference.pdf)
 
 
 ---
