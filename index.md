@@ -8,7 +8,7 @@ keywords: Bingjing, Leiden, R, python, statistic, Big data
 <style>
 .center {
     margin: auto;
-    width: 60%;
+    width: 75%;
     padding: 10px;
 }
 .textcenter {
