@@ -5,7 +5,7 @@ title: Project
 
 ### R project
 - **Shiny Project** 
-  -  Application to give a simple example of the central limit theorem
+  -  One application to give a simple example of central limit theorem
       -  [Link](https://sangaj.shinyapps.io/clt_proof_in_histogram/)
 
 - **Shiny Project** 
@@ -13,5 +13,5 @@ title: Project
       -  [Link](https://sangaj.shinyapps.io/attraction/)
 
 - **Shiny Project** 
-  -  Flights comparison among Top3 European Airport from Chinese Cities
+  -  Flights comparison among European Airport from Chinese Cities
       -  [Link](https://sangaj.shinyapps.io/airlines/)
