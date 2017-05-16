@@ -5,7 +5,7 @@ title: Project
 
 ### R project
 - **Shiny Project** 
-  -  One application to give a simple example of central limit theorem(Personal)
+  -  One application to give a simple example of central limit theorem(Personal)
      -  [Link](https://sangaj.shinyapps.io/clt_proof_in_histogram/)
 
 - **Shiny Project** 
