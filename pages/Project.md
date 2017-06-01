@@ -21,3 +21,8 @@ title: Project
   -  My footprints around the world(Personal)
      -  [Link](https://sangaj.shinyapps.io/Mytrips/)
   
+### Thesis project
+- A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction 
+  - [Repo](https://github.com/sangaj/Thesis)
+  - [PDF](https://github.com/sangaj/Thesis/blob/master/Thesis.pdf)
+  - [Presentation](https://sangaj.shinyapps.io/thesisp/)
