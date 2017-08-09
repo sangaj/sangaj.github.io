@@ -19,7 +19,7 @@ description: Bingjing's Education
 
 
 **Statistical Science**
-- Sep 2014 - Present  
+- Sep 2014 - May 2017  
    - [Thesis project: A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction](https://github.com/sangaj/Thesis)
 > Leiden Science China (LSC) Scholarship 2015/2016
 
