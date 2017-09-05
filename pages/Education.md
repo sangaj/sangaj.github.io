@@ -21,6 +21,7 @@ description: Bingjing's Education
 **Statistical Science**
 - Sep 2014 - May 2017  
    - [Thesis project: A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction](https://github.com/sangaj/Thesis)
+   - [Consulting Project: Cross-linguistic Patterns in Infant Babbling(Andreea Geambasu)](https://openaccess.leidenuniv.nl/handle/1887/47550)
 > Leiden Science China (LSC) Scholarship 2015/2016
 
 
