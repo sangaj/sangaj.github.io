@@ -31,5 +31,5 @@ title: Project
 ### Python Project
 
 - **Arbitrary Jupyter Project**
-   - Dummy data for direct bank marketing campaigns
-      - [Link](https://github.com/sangaj/Py_Random_Project1/blob/master/Notebook.ipynb)
+  - Dummy data for direct bank marketing campaigns
+    - [Link](https://github.com/sangaj/Py_Random_Project1/blob/master/Notebook.ipynb)
