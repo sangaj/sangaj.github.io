@@ -3,7 +3,7 @@ layout: page
 title: Project
 ---
 
-### R project
+### R Project
 - **Shiny Project** 
   -  One application to give a simple example of central limit theorem(Personal)
      -  [Link](https://sangaj.shinyapps.io/clt_proof_in_histogram/)
@@ -21,8 +21,15 @@ title: Project
   -  My footprints around the world(Personal)
      -  [Link](https://sangaj.shinyapps.io/Mytrips/)
   
-### Thesis project
+### Thesis Project
 - A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction 
   - [Repo](https://github.com/sangaj/Thesis)
   - [PDF](https://github.com/sangaj/Thesis/blob/master/Thesis.pdf)
   - [Presentation](https://sangaj.shinyapps.io/thesisp/)
+
+
+### Python Project
+
+- **Arbitrary Jupyter Project**
+   - Dummy data for direct bank marketing campaigns
+      - [Link](https://github.com/sangaj/Py_Random_Project1/blob/master/Notebook.ipynb)
