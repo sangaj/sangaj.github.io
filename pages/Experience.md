@@ -25,9 +25,9 @@ description: Bingjing's Experience
 ####  Data Innovation Lab Schiphol  
 ####  Feb 2016 - Aug 2016
 
-- Manipulate data from Cloudera Impala running on Apache Hadoop by Spark,Python and R and prepare data for Hackathon and Kaggle competition;<br />
-- Utilize R and Python to search best predictive models in terms of penalized regression, support vector machine and neural network to improve efficiency of bird control in the vicinity of the Amsterdam Airport Schiphol;<br />
-- Parallel compute all algorithm on Cluster machines by R and Python;<br />
+- Manipulate and clean data from Cloudera Impala running on Apache Hadoop by Spark,Python and R and prepare data for Hackathon and Kaggle competition;<br />
+- Utilize R and Python to search best predictive models in terms of penalized regression, support vector machine and neural network to improve the efficiency of bird control in the vicinity of the Amsterdam Airport Schiphol;<br />
+- Utilize H2O to parallel compute all algorithm on Cluster machines in R and Python;<br />
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/yt3SOl3uVsg?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
