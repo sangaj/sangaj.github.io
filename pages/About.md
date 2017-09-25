@@ -12,7 +12,8 @@ I currently running two business during my spare time. One is consulting service
 In addition, I really enjoy making investment in stock market. I have my own personal investment philosophy and portfolio.  
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Bingjing.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_English.pdf)
+[简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_Chinese.pdf)
 [reference ![reference as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/reference.pdf)
 
 
