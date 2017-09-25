@@ -20,7 +20,8 @@ keywords: Bingjing, Leiden, R, python, statistic, Big data
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV_Bingjing.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV_in_English.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV_in_Chinese.pdf">简历</a></li>
           <li><a href="http://www.lekkertrip.nl/">Lekkertrip</a></li>
           <li><a href="https://github.com/sangaj">github</a></li>
       </ul>
