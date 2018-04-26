@@ -4,6 +4,15 @@ title: Experience
 description: Bingjing's Experience
 ---
 
+
+###  Risk Data Scientist  
+####  A Fintech Company  
+####  Nov 2017 - Present
+
+- Construct mobile contact network, apply page rank algorithm on the whole network and sub-network and detect the community in the network; Cluster the coordinates; Detect the blacklists on IP address; Web crawler useful information for further study
+etc... <br />
+
+
 ###  Cofounder  
 ####  Lekkertrip  
 ####  Jan 2017 - Present
