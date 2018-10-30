@@ -30,7 +30,7 @@ etc... <br />
 - Detect potential clients on recruiting websites by web crawler techniques; <br />
 
 
-###  Data Scientist Intern
+###  Data Scientist 
 ####  Data Innovation Lab Schiphol  
 ####  Feb 2016 - Aug 2016
 
