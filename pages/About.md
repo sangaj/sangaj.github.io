@@ -20,13 +20,13 @@ During my spare time, I really enjoy making investment in stock market. I have m
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
             Bingjing Gu<br/>
-            <a>Mathematical Institute Leiden</a><br/>
-            <a>Leiden University</a><br/>
+#            <a>Mathematical Institute Leiden</a><br/>
+#            <a>Leiden University</a><br/>
             <a></a><br/>
             <br/>
             <br/>
