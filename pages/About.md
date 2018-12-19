@@ -25,8 +25,8 @@ During my spare time, I really enjoy making investment in stock market. I have m
     <div class="row-fluid">
         <div class="span5">
             Bingjing Gu<br/>
-#            <a>Mathematical Institute Leiden</a><br/>
-#            <a>Leiden University</a><br/>
+            <a></a><br/>
+            <a></a><br/>
             <a></a><br/>
             <br/>
             <br/>
