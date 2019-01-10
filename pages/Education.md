@@ -46,6 +46,7 @@ description: Bingjing's Education
 - Statistical Inference [Coursera Verified Certificates License GHUK65YU9TXW](icons16/Coursera GHUK65YU9TXW.pdf)
 - Reproducible Research [Coursera Verified Certificates License 8XETPCZGWGFE](icons16/Coursera 8XETPCZGWGFE.pdf)
 - Developing Data Products [Coursera Verified Certificates License NL6A9HCMEXTA](icons16/Coursera NL6A9HCMEXTA.pdf)
+- Practical Machine Learning on H2O [Coursera Verified Certificates License 4M44B567R8ZT](icons16/Coursera 4M44B567R8ZT.pdf)
 
 
 
