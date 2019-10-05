@@ -9,10 +9,6 @@ title: Project
      -  [Link](https://sangaj.shinyapps.io/clt_proof_in_histogram/)
 
 - **Shiny Project** 
-  -  Top attractions in Netherlands for Chinese Visitors(Lekkertrip)
-     -  [Link](https://sangaj.shinyapps.io/attraction/)
-
-- **Shiny Project** 
   -  Flights comparison among European Airport from Chinese Cities(Personal)
      -  [Link](https://sangaj.shinyapps.io/airlines/)
 
