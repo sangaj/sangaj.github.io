@@ -35,7 +35,7 @@ During my spare time, I really enjoy making investment in stock market. I have m
             <div id="hide_email">
             Email: <code>gubing</code><b>I</b><code>jing</code><b>don't</b><code>@</code><b>want</b><code>hot</code><b>spam!
             </b><code>mail</code><b>So</b><code></code><b>please</b><code></code><b>leave
-            </b><code></code><b>me</b><code>.</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
+            </b><code></code><b>me</b><code></code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
             Phone: +86(0)15901802846 P.R.China
            
             </div>
