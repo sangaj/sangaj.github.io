@@ -27,14 +27,6 @@ logistic regression, RF,GBDT,etc); <br />
 
 
 ###  Cofounder  
-####  Lekkertrip  
-####  Jan 2017 - Present
-
-- Provide customized tour packages for Chinese tourists in The Netherlands; <br />
-
-
-
-###  Cofounder  
 ####  Shanghai Huqi Information and Technology Co., Ltd.  
 ####  May 2014 - Present
 
