@@ -4,16 +4,24 @@ title: Experience
 description: Bingjing's Experience
 ---
 
+###  Risk Data Scientist  
+####  O-Y-O  
+####  Mar 2019 - Present
+
+- Design configurable anti-fraud strategies,features,models in terms of business experience,outliers detection,complex network,survival anaiysis etc;<br />
+- Web scrape open data and construct relevant dictionary database to support models and features research; <br />
+- Design detecting underground industry users models by machine learning algorithm(LR, RF,GBDT,etc); <br />
+- Utilize data tools from alicloud(Maxcoumpute,DataV,DMS etc) to deal with etl and visualization on marketing data, support business and operation departments for real-time data and fundamental statistic data; <br />
 
 ###  Risk Data Scientist  
-####  A Fintech Company  
-####  Nov 2017 - Present
+#### ZHONGAN INSURANCE  
+####  Nov 2017 - Mar 2019
 
-- Design anti-fraud strategy model by exploring contact relation, location information,
+- Design anti-fraud strategy models by exploring contact relation, location information,
 personas etc in terms of complex network,community detection,semantic analysis, density cluster and etc; <br />
-- Web scrape open data and construct relevant database to support model research
-and verify data,fix price with business partners; <br />
-- Design,construct and analyze credit decision model by machine learning algorithm(
+- Web scrape open data and construct relevant dictionary database to support models research
+and verify data, fix price with business partners; <br />
+- Design, construct and analyze credit decision model by machine learning algorithm(
 logistic regression, RF,GBDT,etc); <br />
 - Create parallel computing to speed up data manipulation and model running; <br />
 
