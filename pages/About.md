@@ -7,7 +7,7 @@ description: Bingjing Gu was born in Shanghai China and is currently living in L
 My name is Bingjing Gu(顾冰竞). I am originally from Shanghai China and currently living in Shanghai as well.
 I got my master degee with Statistics from [Mathematical Institute Leiden](http://www.math.leidenuniv.nl/statisticalscience/) in May 2017. 
 My thesis topic is [A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction](https://github.com/sangaj/Thesis/blob/master/Thesis.pdf).
-I currently work for one of the leading FINTECH companies in China as a Risk Data Scientist.
+I currently work for a fastest-growing hospitality chain of leased and franchised hotels, homes and living spaces as a Risk Data Scientist in marketing.
 In addition, I am running two business during my spare time. One is consulting service in Shanghai(上海互启信息技术有限公司). The other is customized tours service in The Netherlands(Lekkertrip).
 During my spare time, I really enjoy making investment in stock market. I have my own personal investment philosophy and portfolio.  From Dec. 2018, I am offically a teacher of chinese as a foreign language certificated by [International Mandarin Chinese Promotion Institute]({{ BASE_PATH }}/assets/IMCPI.pdf).
 
