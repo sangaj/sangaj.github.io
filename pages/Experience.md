@@ -11,7 +11,7 @@ description: Bingjing's Experience
 - Design configurable anti-fraud strategies,features,models in terms of business experience,outliers detection,complex network,survival anaiysis etc;<br />
 - Web scrape open data and construct relevant dictionary database to support models and features research; <br />
 - Design detecting underground industry users models by machine learning algorithm(LR, RF,GBDT,etc); <br />
-- Utilize data tools from alicloud(Maxcoumpute,DataV,DMS etc) to deal with etl and visualization on marketing data, support business and operation departments for real-time data and fundamental statistic data; <br />
+- Utilize data tools from alicloud(Maxcoumpute,DataV,DMS etc) and hive to deal with etl and visualization on marketing data, support business and operation departments for real-time data and fundamental statistic data; <br />
 
 ###  Risk Data Scientist  
 #### ZHONGAN INSURANCE  
