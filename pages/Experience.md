@@ -6,7 +6,7 @@ description: Bingjing's Experience
 
 ###  Risk Data Scientist  
 ####  O-Y-O  
-####  Mar 2019 - Present
+####  Mar 2019 - Mar 2020
 
 - Design configurable anti-fraud strategies,features,models in terms of business experience,outliers detection,complex network,survival anaiysis etc;<br />
 - Web scrape open data and construct relevant dictionary database to support models and features research; <br />
