@@ -8,10 +8,10 @@ description: Bingjing's Experience
 ####  O-Y-O  
 ####  Mar 2019 - Mar 2020
 
-- Design configurable anti-fraud strategies,features,models in terms of business experience,outliers detection,complex network,survival anaiysis etc;<br />
-- Web scrape open data and construct relevant dictionary database to support models and features research; <br />
-- Design detecting underground industry users models by machine learning algorithm(LR, RF,GBDT,etc); <br />
-- Utilize data tools from alicloud(Maxcoumpute,DataV,DMS etc) and hive to deal with etl and visualization on marketing data, support business and operation departments for real-time data and fundamental statistic data; <br />
+- Design configurable anti-fraud strategies,features,models in terms of business experience,outliers detection,complex network,survival anaiysis etc to reduce marketing campaign cost;<br />
+- Webscrape open data and construct relevant dictionary database to support models and features engineering; <br />
+- Design machine learning models (LR,RF,GBDT,etc) for detecting underground industry users to improve dynamic pricing strategy and reduce campaign cost; <br />
+- Utilize data tools from alicloud(Maxcoumpute,DataV,DMS etc) and hive to deal with etl and visualization on marketing data, support business and operation departments for designing feature warehouse for real-time and periodic data and provide fundamental statistics,reports and visualization; <br />
 
 ###  Risk Data Scientist  
 #### ZHONGAN INSURANCE  
@@ -19,8 +19,8 @@ description: Bingjing's Experience
 
 - Design anti-fraud strategy models by exploring contact relation, location information,
 personas etc in terms of complex network,community detection,semantic analysis, density cluster and etc; <br />
-- Web scrape open data and construct relevant dictionary database to support models research
-and verify data, fix price with business partners; <br />
+- Webscrape open data and construct relevant dictionary database to support models and features research,
+  validate models and data from business partners, fix price with business partners; <br />
 - Design, construct and analyze credit decision model by machine learning algorithm(
 logistic regression, RF,GBDT,etc); <br />
 - Create parallel computing to speed up data manipulation and model running; <br />
