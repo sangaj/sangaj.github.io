@@ -2,7 +2,7 @@
 layout: frontpage
 title: Bingjing Gu
 description: Data lover and value investor
-keywords: Bingjing, Leiden, R, python, statistic, Big data
+keywords: Bingjing, Leiden, R, python, statistic, Shanghai, Risk Data, Fraud
 ---
 <head>
 <style>
@@ -29,7 +29,6 @@ keywords: Bingjing, Leiden, R, python, statistic, Big data
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV_in_English.pdf">cv</a></li>
           <li><a href="{{ BASE_PATH }}/assets/CV_in_Chinese.pdf">简历</a></li>
-          <li><a href="http://www.lekkertrip.nl/">Lekkertrip</a></li>
           <li><a href="https://github.com/sangaj">github</a></li>
       </ul>
   </div>
