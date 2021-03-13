@@ -10,7 +10,7 @@ description: Bingjing's Education
             <li><a href="#Leiden Univeristy">Leiden University</a></li>
             <li><a href="#Wuhan University">Wuhan University</a></li>
             <li><a href="#Cousera">Cousera</a></li>
-            <li><a href="#ACAMS">Cousera</a></li>
+            <li><a href="#ACAMS">ACAMS</a></li>
         </ul>
     </div>
 </div>
