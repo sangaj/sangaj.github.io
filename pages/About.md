@@ -8,7 +8,7 @@ My name is Bingjing Gu(顾冰竞). I am originally from Shanghai China and curre
 I got my master degee with Statistics from [Mathematical Institute Leiden](http://www.math.leidenuniv.nl/statisticalscience/) in May 2017. 
 My thesis topic is [A Kalman Filter Model with Sparse Matrices in Spatial-Temporal Prediction](https://github.com/sangaj/Thesis/blob/master/Thesis.pdf).
 My current position is a Risk Data Scientist for a fastest-growing recycling start-up expanding business across China. I designed different risk and anti-fraud models which can help us distinguish risk users and reduce the cost efficiently.  My several years experience in data science allows me to get the capbility of detecting anomaly,data patterns etc. With the progress of the technology, I have the opportunity to apply novel methods into solving practical problems in terms of anti-fraud,risk models etc. In addition, I am running consulting service in Shanghai(上海互启信息技术有限公司) during my spare time.
-I also really enjoy making investment in stock market. I have my own personal investment philosophy and portfolio.  From Dec. 2018, I am offically a teacher of chinese as a foreign language certificated by [International Mandarin Chinese Promotion Institute]({{ BASE_PATH }}/assets/IMCPI.pdf).
+I also really enjoy making investment in stock market. I have my own personal investment philosophy and portfolio.  From Dec. 2018, I am officially a teacher of chinese as a foreign language certificated by [International Mandarin Chinese Promotion Institute]({{ BASE_PATH }}/assets/IMCPI.pdf).
 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_English.pdf)
