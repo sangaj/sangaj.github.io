@@ -11,8 +11,8 @@ My current position is a Risk Data Scientist for a fastest-growing recycling sta
 I also really enjoy making investment in stock market. I have my own personal investment philosophy and portfolio.  From Dec. 2018, I am officially a teacher of chinese as a foreign language certificated by [International Mandarin Chinese Promotion Institute]({{ BASE_PATH }}/assets/IMCPI.pdf).
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_English.pdf)
-[简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_Chinese.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_Englishs.pdf)
+[简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_Chineses.pdf)
 [reference ![reference as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/reference.pdf)
 
 
