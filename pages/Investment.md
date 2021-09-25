@@ -18,6 +18,6 @@ title: Investment
   
 - **东方财富** [(SSE:300059)](https://www.eastmoney.com/)
 
-- **上海瀚讯** [(SSE:300762)](http://www.jushri.com/)
+- **宁波银行** [(SSE:002142)](http://www.nbcb.com.cn/)
 
 - **凯利泰** [(SSE:300326)](http://www.kineticmedinc.com.cn/)
