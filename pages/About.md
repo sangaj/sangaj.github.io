@@ -11,8 +11,8 @@ My current position is a Risk Data Scientist for a fastest-growing recycling sta
 I also really enjoy making investment in stock market. I have my own personal investment philosophy and portfolio.  From Dec. 2018, I am officially a teacher of chinese as a foreign language certificated by [International Mandarin Chinese Promotion Institute]({{ BASE_PATH }}/assets/IMCPI.pdf).
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_Englishs.pdf)
-[简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_Chineses.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_English.pdf)
+[简历 ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_in_Chinese.pdf)
 [reference ![reference as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/reference.pdf)
 
 
@@ -35,7 +35,7 @@ I also really enjoy making investment in stock market. I have my own personal in
             Email: <code>gubing</code><b>I</b><code>jing</code><b>don't</b><code>@</code><b>want</b><code>hot</code><b>spam!
             </b><code>mail</code><b>So</b><code>.</code><b>please</b><code></code><b>leave
             </b><code></code><b>me</b><code></code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
-            Phone: +86(0)18018582474 P.R.China
+            Phone: +86(0)15901802846 P.R.China
            
             </div>
         </div>
