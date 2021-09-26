@@ -9,7 +9,7 @@ description: Bingjing's Experience
 
 - Design configurable anti-fraud strategies,features,models in terms of business experience,outliers detection,complex network,survival anaiysis etc to reduce meaningless cost;<br />
 
-###  Risk  Scientist  
+###  Risk Data Scientist  
 ####  O-Y-O  
 ####  Mar 2019 - Mar 2020
 
